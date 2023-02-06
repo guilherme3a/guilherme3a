@@ -1,8 +1,8 @@
 ## Olá, eu sou o Guilherme Augusto 👋
 
 Engenheiro de Controle e Automação trabalhando como Desenvolvedor de *Hardware*. <br/>
-Aqui compartilho projetos que desenvolvidos ao longo da vida (alguns ainda em desenvolvimento). <br/>
-A maioria está relacionada à eletrônica, programação de microcontroladores PIC, robótica e impressão 3D.
+Compartilho aqui projetos desenvolvidos ao longo da minha vida (alguns ainda em desenvolvimento). <br/>
+A maioria está relacionada à eletrônica, programação de microcontroladores, robótica e impressão 3D.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme3a&count_private=true&show_icons=true&theme=radical"/>
 
