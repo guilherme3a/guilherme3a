@@ -2,7 +2,7 @@
 
 Engenheiro de Controle e Automação trabalhando como Desenvolvedor de *Hardware*. <br/>
 Compartilho aqui projetos desenvolvidos ao longo da minha vida (alguns ainda em desenvolvimento). <br/>
-A maioria está relacionada à eletrônica, programação de microcontroladores, robótica e impressão 3D.
+Eles envolvem conceitos relacionados à eletrônica, programação de microcontroladores, robótica, modelagem ou impressão 3D.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme3a&count_private=true&show_icons=true&theme=radical"/>
 
@@ -22,4 +22,7 @@ A maioria está relacionada à eletrônica, programação de microcontroladores,
 <div style="display: inline_block">
   <a href="mailto:guilherme1998.3a@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     <a href="https://www.linkedin.com/in/guilherme-alvin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <a href="https://g3a.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
 </div>
+
+    
