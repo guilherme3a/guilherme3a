@@ -2,7 +2,7 @@
 
 Engenheiro de Controle e Automação trabalhando como Desenvolvedor de *Hardware*. <br/>
 Compartilho aqui projetos desenvolvidos ao longo da minha vida (alguns ainda em desenvolvimento). <br/>
-Eles envolvem conceitos relacionados à eletrônica, projeto de PCIs, programação de microcontroladores, robótica, modelagem ou impressão 3D.
+A maioria relacionada à eletrônica, projeto de PCIs, programação de microcontroladores, robótica, modelagem ou impressão 3D. <br/>
 Sempre que possível publico alguns artigos no Medium que, em geral, podem ser do interesse de devs e makers.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme3a&count_private=true&show_icons=true&theme=radical"/>
